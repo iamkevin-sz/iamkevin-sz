@@ -23,7 +23,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,docker,figma,github,html,js,linux,mysql,nextjs,nodejs,postman,react,tailwind,laravel, wordpress, jquery,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,figma,github,html,js,linux,mysql,nextjs,nodejs,postman,react,tailwind,laravel, wordpress, jquery,vscode&perline=14" />
   </a>
 </p>
 
@@ -48,8 +48,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+
 </div>
 
 <!--horizontal divider(gradiant)-->
